@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+     align-items: center;
+    color: wheat;
+    font-size: 2rem;
+}
+.nav_bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: brown;
+    padding: 10px;
+    gap: 1rem;
+
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: brown;
+  }
+  img{
+    height: 20rem;
+    width: 20rem;
+  }
+  .right{
+    gap: 2rem;
+  }
+  .form-control{
+    
+    width: 15rem;
+  }
+  .form{
+   margin-left: 33rem;
+   margin-top: 8rem;
+ }
